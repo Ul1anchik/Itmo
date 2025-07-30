@@ -1,5 +1,4 @@
-# Itmo
-Transport of relativistic vortex electrons
+# Transport of relativistic vortex electrons
 
 Файл *torch_ref(2)* содержит основные результаты, полученные с помощью <ins>приближения боольших времен</ins>
 
