@@ -1,2 +1,11 @@
 # Itmo
 Transport of relativistic vortex electrons
+
+**Модули в отдельной папке src:** 
+1. файл *aux_func* содержит *вспомогательные функции*: factorial, L_mod и L_mod_1, pp2, En, z, Exp1, wigner_d_matrix_j1_torch
+2. файл *int_no_approx* содержит *интеграл без приближений*: IntEn()
+3. файл *ptobability_intensity* содержит функции вероятностей и интенсивностей, а так же S_fi
+4. файл *time_and_coord_int* содержит интегралы по поперечной координате и интегралы по времени от t_in до t_out
+5. файл *virables* перечисляет все используемые константы
+
+**файл requiments** 
