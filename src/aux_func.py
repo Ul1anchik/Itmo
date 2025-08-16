@@ -3,7 +3,7 @@ import scipy.special
 import torch
 from torch.autograd import Function
 
-from variables import *
+from .variables import *
 
 def factorial(n):
     if isinstance(n, torch.Tensor):
