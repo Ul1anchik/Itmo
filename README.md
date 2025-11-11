@@ -14,3 +14,6 @@
 Файл *torch_ref(7)_corrected(2)* использует функции  *torch_ref(2)*, но главная информация в нем - блок <ins>численное интегрирование по времени</ins>
 
 Файл *requiments* - основные библиотеки и связи проекта 
+
+<img width="593" height="435" alt="image" src="https://github.com/user-attachments/assets/69bed435-cd24-4114-8644-3cb66136d283" />
+
